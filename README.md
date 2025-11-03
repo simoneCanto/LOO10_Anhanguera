@@ -41,3 +41,36 @@ Crie um projeto chamado AtividadePagamento.
 Dentro do src, crie o pacote:
 
 br.com.aluno.pagamento
+
+
+Etapa 7 – Publicar no GitHub
+
+Criar um repositório público chamado AtividadePagamentoJava.
+
+Fazer o upload dos arquivos .java.
+
+Enviar o link ao professor.
+
+✅ Checklist
+
+ Interface criada
+
+ Classe abstrata criada
+
+ Exceção personalizada
+
+ Duas classes concretas
+
+ Tratamento de exceções funcionando
+
+ Código testado
+
+ Repositório no GitHub
+
+🧠 Discussão Final
+
+O que diferencia uma interface de uma classe abstrata?
+
+Por que criar exceções personalizadas ajuda na manutenção?
+
+Como a herança e o polimorfismo simplificam o código acima?
